@@ -1,16 +1,54 @@
-## Hi there 👋
-
-<!--
-**project-lbr/project-lbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<thead>
+    <tr>
+    <th align="left">🔴 🟡 🟢 &nbsp; project-lbr@github: ~</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+    <td>
+        <br>
+        <samp>
+        $ <b>whoami</b><br>
+        > Name: Libor<br>
+        > Role: Student @ UPOL<br>
+        > Location: Morava, CZ<br>
+        <br>
+        $ <b>cat ./CURRENT_PROJECT.txt</b><br>
+        > 🏠 <b>HOME SERVER (The Old Laptop)</b><br>
+        > -----------------------------------------<br>
+        > A self-hosted sanctuary for Vaultwarden & local cloud backups<br>
+        > 🔐 <b>Status:</b> All systems nominal (SSL Renewed)<br>
+        <br>
+        $ <b>ls ./workspace/showcase</b><br>
+        <br>
+        ├── 💻 <b>Main Machine: ThinkPad X390 - i7-8665U + 16GB RAM</b><br>
+        │&nbsp;&nbsp;&nbsp;├── OS: EndeavourOS (Arch Linux)<br>
+        │&nbsp;&nbsp;&nbsp;└── DE: KDE Plasma (Catppuccin Theme)<br>
+        │<br>
+        ├── 🛠️ <b>Services</b><br>
+        │&nbsp;&nbsp;&nbsp;├── <a href="#">Vaultwarden</a> [Password Manager]<br>
+        │&nbsp;&nbsp;&nbsp;├── <a href="#">Tailscale</a> [Mesh VPN]<br>
+        │&nbsp;&nbsp;&nbsp;└── <a href="#">Samba</a> [Local File Share]<br>
+        │<br>
+        └── 🎨 <b>Ricing</b><br>
+        > in progress 
+        <br>
+        <br>
+        $ <b>grep "skills" .</b><br>
+        > <b>OS:</b> Arch, Debian, Linux Server<br>
+        > <b>TOOLS:</b> Docker, Git, Tailscale, Rclone, Bash<br>
+        <br>
+        $ <b>echo $MOTD</b><br>
+        "I use Arch because I love fixing things that I broke myself."<br>
+        <br>
+        $ <b>./contact_me.sh</b><br>
+        <a href=""><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white"></a>
+        <a href="https://github.com/project-lbr"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"></a>
+        </samp>
+        <br><br>
+    </td>
+    </tr>
+</tbody>
+</table>
