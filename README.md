@@ -22,7 +22,7 @@
         <br>
         $ <b>ls ./workspace/showcase</b><br>
         <br>
-        ├── 💻 <b>Main Machine: ThinkPad X390 - i7-8665U + 16GB RAM</b><br>
+        ├── 💻 <b>Main Machine: ThinkPad X390</b><br>
         │&nbsp;&nbsp;&nbsp;├── OS: EndeavourOS (Arch Linux)<br>
         │&nbsp;&nbsp;&nbsp;└── DE: KDE Plasma (Catppuccin Theme)<br>
         │<br>
@@ -37,10 +37,7 @@
         <br>
         $ <b>grep "skills" .</b><br>
         > <b>OS:</b> Arch, Debian, Linux Server<br>
-        > <b>TOOLS:</b> Docker, Git, Tailscale, Rclone, Bash<br>
-        <br>
-        $ <b>echo $MOTD</b><br>
-        "I use Arch because I love fixing things that I broke myself."<br>
+        > <b>TOOLS:</b> Docker, Git, Tailscale, Bash<br>
         <br>
         $ <b>./contact_me.sh</b><br>
         <a href=""><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white"></a>
