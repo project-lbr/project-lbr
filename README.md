@@ -6,13 +6,13 @@
 </thead>
 <tbody>
     <tr>
-    <td>
+    <td> 
         <br>
         <samp>
         $ <b>whoami</b><br>
         > Name: Libor<br>
         > Role: Student @ UPOL<br>
-        > Location: Morava, CZ<br>
+        > Location: Morava, Czech Republic<br>
         <br>
         $ <b>cat ./CURRENT_PROJECT.txt</b><br>
         > 🏠 <b>HOME SERVER (The Old Laptop)</b><br>
@@ -27,10 +27,17 @@
         │&nbsp;&nbsp;&nbsp;└── DE: KDE Plasma (Catppuccin Theme)<br>
         │<br>
         ├── 🛠️ <b>Services</b><br>
+        │&nbsp;&nbsp;&nbsp;├── <a href="#">Termix</a> [SSH Client]<br>
+        │&nbsp;&nbsp;&nbsp;├── <a href="#">RustDesk</a> [Selfhosted RDP]<br>
         │&nbsp;&nbsp;&nbsp;├── <a href="#">Vaultwarden</a> [Password Manager]<br>
         │&nbsp;&nbsp;&nbsp;├── <a href="#">Tailscale</a> [Mesh VPN]<br>
         │&nbsp;&nbsp;&nbsp;└── <a href="#">Samba</a> [Local File Share]<br>
         │<br>
+        ├── IEMs <br>
+        │&nbsp;&nbsp;&nbsp;├── IEMs: TANGZU WANER SG 2<br>
+        │&nbsp;&nbsp;&nbsp;├── Cable: OpenHeart 8 Core 3.5mm -> 0.78 2Pin<br>
+        │&nbsp;&nbsp;&nbsp;├── DAC/AMPs: FiiO JA11 (USB Dongle)<br>
+        │&nbsp;&nbsp;&nbsp;└── DAC/AMPs: FiiO BTR11 (Bluetooth)<br>
         └── 🎨 <b>Ricing</b><br>
         > in progress 
         <br>
